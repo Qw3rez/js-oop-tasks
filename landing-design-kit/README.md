@@ -5,6 +5,7 @@
 ## Что внутри
 - `.claude/skills/frontend-design`: официальный скилл Anthropic против шаблонного дизайна
 - `.claude/skills/landing-design-director`: процесс работы (3 направления, запреты, анимации, проверка по скриншотам)
+- `.claude/skills/creative-concepts`: креатив — поиск большой идеи, 57 «фишек» в `ideas.md`, 3 концепции (безопасная / смелая / экспериментальная), журнал против повторов
 - `.claude/skills/theme-factory`, `canvas-design`: палитры и визуальные идеи
 - `.claude/skills/webapp-testing`: тестирование страниц через Playwright
 - `.mcp.json`: Playwright (скриншоты), 21st.dev Magic (готовые компоненты), shadcn
